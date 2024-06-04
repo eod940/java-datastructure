@@ -9,6 +9,7 @@
 /dataSources.local.xml
 
 .DS_Store
+*.iml
 
 build/
 bin/
